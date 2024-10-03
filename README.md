@@ -1,20 +1,20 @@
 ## Hello, I'm Jennifer Ofoegbu
 <a href="https://www.linkedin.com/in/jennifer-ofoegbu-cyber/"><img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&labelColor=%230A66C2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjennifer-ofoegbu-cyber%2F">
 
+[Brief Introduction - Remove this afterwards]
 
 
-Detail-oriented Information Systems Administrator with experience in enhancing, designing, and implementing server infrastructure operations across Linux, Windows, and cloud platforms to optimize business functions. Skilled in managing AWS cloud services, automating processes, and executing complex system migrations. Passionate about adding value to organizations through innovative automation and practical problem-solving, with a commitment to continuous professional development.
 
 ## Objective
-
+[Provide Objective - Remove this afterwards]]
 
 ## Skills
+[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 
 
-
-|Skill                                            | Associated Project  
-
+|Skill                          | Associated Project  
+|-------------------------------|-------------------|
 
 
 
@@ -23,6 +23,7 @@ Detail-oriented Information Systems Administrator with experience in enhancing, 
 
 
 ## Tools
+[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 
 ### Network
@@ -46,6 +47,7 @@ Detail-oriented Information Systems Administrator with experience in enhancing, 
 
 
 ## Certifications
+[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 
 
 
